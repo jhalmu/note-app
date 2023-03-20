@@ -6,4 +6,5 @@
 
 ## Initial commit 20.3.23
 
-- Practising to get php app dockerized on linux server. Worked in my machine (lol).
+- Practising to get php app dockerized on linux server. 
+- <img src="./public/meme.jpg" width="200" alt="Worked on my machine meme. Very funny.">
